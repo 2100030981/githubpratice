@@ -13,5 +13,9 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     print('welcome')
+def add(x,y):
+    return x+y
+print(add(5,3))
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
