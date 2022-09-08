@@ -17,5 +17,8 @@ def add(x,y):
     return x+y
 print(add(5,3))
 a = 5
+b = 10
+sum = a+ b
+print (a+b)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
